@@ -1,5 +1,5 @@
-name: code_notebook
-version: ~
-title: The Coding Notebook
+name: rust
+title: Rust Documentation
+version: '1.0'
 nav:
 - modules/ROOT/nav.adoc
