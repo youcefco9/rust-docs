@@ -1,0 +1,5 @@
+name: code_notebook
+version: ~
+title: The Coding Notebook
+nav:
+- modules/ROOT/nav.adoc

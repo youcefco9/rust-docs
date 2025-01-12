@@ -1,0 +1,3 @@
+= Welcome to my Rust Documentation
+
+Learn how to write high-performance, safe systems code with Rust.
